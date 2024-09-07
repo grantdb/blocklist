@@ -203,6 +203,16 @@ Contributing is limited to members, instructions are available in [CONTRIBUTING]
 However feel free to report a [broken website](#broken-sites).
 
 
+## Donate
+XMR: 
+```
+44MEFUq1BwnSgJ3ooy4B5yH7zLSPNtWxLYEHYrdiBuKdaqoFjNBovBD3t86dYRUuVn1dTKCudXZeDeafJG6xgtg7LhG7u6U
+```
+
+BTC: 
+```
+bc1quwfyljq00trm45tnmg8074pwyg9yy8fc5mqnuj
+```
 
 ## Broken sites
 Feel free to report a broken website under [Github issues](https://github.com/ph00lt0/blocklist/issues/new?&template=broken-website-or-app.md). We will not remove any website because it has 'ethical' tracking, ads or whatsoever.
